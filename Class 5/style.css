@@ -1,0 +1,24 @@
+.body {
+    height: 100%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-item {
+    flex-basis: 50px;
+    flex-grow: 2;
+    /*flex-shrink: 1;*/
+}
+
+.flex-img{
+width: 100px;
+height: 100px;
+align-items: initial;
+}
+
+.flex-button{
+    text-align: right;
+    box-shadow: 10px 10px 8px 10px #888888;
+}
